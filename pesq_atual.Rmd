@@ -58,6 +58,8 @@ options(htmltools.dir.version = FALSE)
 
 - Ciência de Dados;
     - Dados não estruturados (Textos, Sons,...);
+    
+- Probabilidade e Estatística no ENEM;
 
 ]
 
