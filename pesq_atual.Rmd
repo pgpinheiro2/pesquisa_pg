@@ -1,0 +1,50 @@
+---
+title: "CICLO DE PALESTRAS DAS LINHAS DE PESQUISA 2024"
+subtitle: "Curso de Licenciatura em Matemática"
+author: "Paulo Guilherme Pinheiro dos Santos"
+institute: "![UEAP](http://ueap.edu.br/site_antigo/img/logo-white.png){width=2.6in}"
+date: "08/11/2024 (atualizado em: `r format(Sys.Date(), '%d/%m/%Y')`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '14.562:9'
+---
+
+---
+# O que já fiz?
+
+
+---
+# Meus interesses atuais
+
+- Estatística aplicada ao Karate (Artes Marciais, Esporte);
+
+- Programação em R;
+
+- GitHub;
+    - Exemplo: 
+
+- Painéis Estatísticos, *Dashboards*, 
+
+---
+class: right, inverse
+background-image: url(https://upload.wikimedia.org/wikipedia/pt/b/be/Bras%C3%A3o_UEAP.png)
+background-size: 25%
+background-position: 10% 15%
+# Contatos
+
+Paulo Guilherme P. dos Santos
+
+Colegiado do Curso de Lic. em Matemática - COLIMA
+
+Campus I - Av. Presidente Vargas, nº 650
+
+Centro | CEP: 68.900-070
+
+Macapá - AP 
+
+*e-mail*: [paulo.santos@ueap.edu.br](mailto: paulo.santos@ueap.edu.br)
