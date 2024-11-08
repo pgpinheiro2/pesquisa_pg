@@ -21,7 +21,7 @@ options(htmltools.dir.version = FALSE)
 ```
 
 ---
-## CV resumido
+# CV resumido
 
 .pull-left[
 ## Acadêmico
