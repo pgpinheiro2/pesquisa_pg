@@ -30,7 +30,7 @@ output:
 .pull-right[
 ## Profissional
 
-- Professor - UEAP;
+- Professor - COLIMA/UEAP;
 
 - Estatístico/Técnico-Administrativo em Educação - UNIFAP;
 
@@ -38,11 +38,6 @@ output:
 
 - Auxiliar de Campo - IPAM;
 ]
-
-
----
-# O que já fiz?
-
 
 ---
 # Meus interesses atuais
@@ -54,20 +49,82 @@ output:
     
 - Karate (Artes Marciais, Esporte);
 
+- Ciência de Dados;
+    - Dados não estruturados (Textos, Sons);
+
 ]
 
 .pull-right[
-## Programação
+## Programação Estatística
 - Programação em ![R](https://www.r-project.org/Rlogo.png);
 
-- GitHub;
-    - Exemplo: [Clique aqui!](https://pgpinheiro2.github.io/pesquisa_pg)
+- Pesquisa reproduzível, Documentos dinâmicos,...
 
-- Painéis Estatísticos, *Dashboards*, 
+- Git e GitHub;
+    - Exemplo: [Clique aqui!](https://github.com/pgpinheiro2/pesquisa_pg)
 
+- Painéis Estatísticos, [*Dashboards*](https://estatisticas-unifap.shinyapps.io/app1/), 
 
 ]
 
+---
+class: right
+## O que já fiz?
+- Estatística aplicada a um *corpus*: *Topic modelling*
+
+```{r, echo = FALSE, fig.align='center', out.width="70%"}
+knitr::include_graphics("figs/silin2024.png")
+```
+
+
+---
+class: right
+## O que já fiz?
+
+- Estatística aplicada a volume de madeira: Regressão Não Linear.
+```{r, echo = FALSE, fig.align='center', out.width="70%"}
+knitr::include_graphics("figs/sinape2024.png")
+```
+
+---
+class: right
+## O que já fiz?
+
+- Estatística aplicada a biofilmes de açaí: Regressão.
+
+```{r, echo = FALSE, fig.align='center', out.width="70%"}
+knitr::include_graphics("figs/artigo2019.png")
+```
+
+---
+class: right
+## O que já fiz?
+
+- Estatística aplicada a qualidade de carvão: Testes de hipóteses.
+
+```{r, echo = FALSE, fig.align='center', out.width="70%"}
+knitr::include_graphics("figs/art2018.png")
+```
+
+---
+class: right
+## O que já fiz?
+
+- Séries temporais aplicada a vazão no Rio Tocantins, PA: SARIMA.
+
+```{r, echo = FALSE, fig.align='center', out.width="90%"}
+knitr::include_graphics("figs/art2016.png")
+```
+
+---
+class: right
+## O que já fiz?
+
+- Probabilidade aplicada a jogos.
+
+```{r, echo = FALSE, fig.align='center', out.width="85%"}
+knitr::include_graphics("figs/art2014.png")
+```
 
 
 ---
