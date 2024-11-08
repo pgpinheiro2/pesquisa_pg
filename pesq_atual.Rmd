@@ -1,6 +1,6 @@
 ---
 title: "CICLO DE PALESTRAS DAS LINHAS DE PESQUISA 2024"
-subtitle: "Curso de Licenciatura em Matemática"
+subtitle: "![colima](figs/logo-colima.jpeg){width=1.2in}"
 author: "Paulo Guilherme Pinheiro dos Santos"
 institute: "![UEAP](http://ueap.edu.br/site_antigo/img/logo-white.png){width=2.6in}"
 date: "08/11/2024 (atualizado em: `r format(Sys.Date(), '%d/%m/%Y')`)"
@@ -14,6 +14,17 @@ output:
       ratio: '14.562:9'
 ---
 
+## CV resumido
+
+- Mestre em Estatística - FAEST/ICEN/UFPA;
+
+- Bacharel em Estatística - PPGME/ICEN/UFPA;
+
+- Bacharel em Ciências Biológicas - ICB/UFPA;
+
+- Mestre em Zoologia - PPGZOO/MPEG/ICB/UFPA;
+
+
 ---
 # O que já fiz?
 
@@ -21,14 +32,28 @@ output:
 ---
 # Meus interesses atuais
 
-- Estatística aplicada ao Karate (Artes Marciais, Esporte);
+.pull-left[
+## Probabilidade & Estatística Aplicada
+- Meio Ambiente;
+    - Modelos Não-Lineares
+    
+- Karate (Artes Marciais, Esporte);
 
-- Programação em R;
+]
+
+.pull-right[
+## Programação
+- Programação em ![R](https://www.r-project.org/Rlogo.png);
 
 - GitHub;
     - Exemplo: 
 
 - Painéis Estatísticos, *Dashboards*, 
+
+
+]
+
+
 
 ---
 class: right, inverse
@@ -48,3 +73,5 @@ Centro | CEP: 68.900-070
 Macapá - AP 
 
 *e-mail*: [paulo.santos@ueap.edu.br](mailto: paulo.santos@ueap.edu.br)
+
+CLattes: [http://lattes.cnpq.br/0539600993405515](http://lattes.cnpq.br/0539600993405515)
